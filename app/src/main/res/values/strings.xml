@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Shoe Store</string>
+    <string name="login">Login</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="here_you_can_add_the_shoes_and_it_s_detalis">Here you can add the shoes and it\'s detalis all right here</string>
+    <string name="shoes_list">shoes list</string>
+    <string name="welcome_to_shore_store">Welcome to Shore store</string>
+    <string name="instructions">You can add the shoe and it\'s full details like the shoe company,size and any other relavent details you want . Then you can add it to the lists to be shown for everyone .</string>
+    <string name="Instructions">Instructions</string>
+    <string name="create_a_new_account">Create a new account</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="shoes_list_title">Shoes List</string>
+    <string name="scroll_view_for_shwoing_the_shoes_list">Scroll view for shwoing the shoes list</string>
+    <string name="login2">Login</string>
+    <string name="or">OR</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="size">Size</string>
+    <string name="description">Description</string>
+    <string name="company">Company</string>
+    <string name="name">Name</string>
+    <string name="enter_shoe_details">Enter shoe details</string>
+    <string name="shoe_name">Shoe Name</string>
+    <string name="shoe_size">Shoe size</string>
+    <string name="signout">Signout</string>
+    <string name="name_">Name :</string>
+    <string name="company_">Company :</string>
+    <string name="description_">Description :</string>
+    <string name="size_">Size :</string>
+</resources>

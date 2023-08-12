@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <data>
+
+    </data>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/background"
+        android:orientation="vertical"
+        tools:context=".LoginFragments.WelcomeFragment">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="64dp"
+            android:layout_marginTop="32dp"
+            android:fontFamily="@font/anton"
+            android:text="@string/welcome_to_shore_store"
+            android:textColor="@color/white"
+            android:textSize="25sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="64dp"
+            android:fontFamily="sans-serif-condensed-medium"
+            android:padding="8dp"
+            android:text="@string/here_you_can_add_the_shoes_and_it_s_detalis"
+            android:textColor="@color/white"
+            android:textSize="20sp" />
+
+        <Button
+            android:layout_width="300dp"
+            android:layout_height="50dp"
+            android:layout_gravity="center_horizontal"
+            android:id="@+id/goToInstructions_button"
+            android:layout_marginTop="224dp"
+            android:textStyle="bold"
+            android:background="@drawable/button_login"
+            android:backgroundTint="@color/darkBlueColor"
+            android:text="@string/Instructions"
+            android:textColor="@color/white" />
+    </LinearLayout>
+</layout>
